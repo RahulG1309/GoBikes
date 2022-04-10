@@ -1,0 +1,4 @@
+venv/
+.venv/
+cloud_sql_proxy
+GCP_Cloud_SQL_Setup
